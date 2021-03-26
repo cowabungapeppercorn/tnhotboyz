@@ -6,6 +6,8 @@
 
 (function($) {
 
+	console.log("cuck");
+
 	var	$window = $(window),
 		$body = $('body');
 
